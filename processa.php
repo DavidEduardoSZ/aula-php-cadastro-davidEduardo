@@ -48,7 +48,7 @@ if (isset($_FILES['curriculo']) && $_FILES['curriculo']['error'] === 0) {
 ?>
  
 <!DOCTYPE html>
-<html lang="pt-pt">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <title>Resumo do registro</title>
